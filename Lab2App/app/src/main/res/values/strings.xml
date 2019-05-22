@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab2App</string>
+    <string name="time_constant">00:00:00</string>
+    <string name="geolocation_activity">Geolocation Activity</string>
+    <string name="start">Start</string>
+    <string name="_continue">Continue</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="update_location">Update location</string>
+    <string name="unknown_location">Unknown location</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="location_received">Location received</string>
+</resources>
